@@ -1,5 +1,3 @@
-# abel-escobedo.github.io
-
 	<style>
 #gr_updates_widget{
 border-radius: 5px;
